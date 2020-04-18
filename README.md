@@ -4,3 +4,4 @@ Project for school.
 Testing for jenkins build.
 Test2
 Test3
+Test4
