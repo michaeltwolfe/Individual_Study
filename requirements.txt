@@ -6,4 +6,4 @@ jsonpatch==1.10
 jsonpickle==1.2
 jsonpointer==1.9
 jsonschema==2.6.0
-requests==2.9.1
+requests==2.20.0
